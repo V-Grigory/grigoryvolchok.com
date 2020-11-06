@@ -1,0 +1,29 @@
+{
+  "name": "grigoryvolchok.com",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "vue",
+    "javascript",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Grigory Volchok",
+    "email": "grigoryvolchok@gmail.com",
+    "url": "https://grigoryvolchok.com"
+  },
+  "homepage": "https://grigoryvolchok.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/V-Grigory/grigoryvolchok.com.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {}
+}
